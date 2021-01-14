@@ -2,9 +2,9 @@
 	"objects": {
 		"0": "Monkey",
 		"1": "Elephant",
-        "1": "Dog",
-        "1": "Cat",
-        "1": "Pig",
-        "1": "Chicken"
+        	"2": "Dog",
+        	"3": "Cat",
+        	"4": "Pig",
+        	"5": "Chicken"
 	}
 }
